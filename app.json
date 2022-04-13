@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/AdhwaithTG/deleterobot",
-    "repository": "https://github.com/AdhwaithTG/deleterobot",
+    "repository": "https://github.com/Apputhan/deleterobot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
